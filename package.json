@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-heroesdigitales",
+  "version": "1.0.0",
+  "description": "Ejercicio Practico de Digital House",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusEl10/practica-heroesdigitales.git"
+  },
+  "author": "Gustavo Grigera - GusEl10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GusEl10/practica-heroesdigitales/issues"
+  },
+  "homepage": "https://github.com/GusEl10/practica-heroesdigitales#readme"
+}
